@@ -3,8 +3,8 @@ Dailymotion playback technology for Video.js 5.0 +
 
 # Dailymotion Playback Technology<br />for [Video.js](https://github.com/videojs/video.js)
 
-# [Current demo](https://rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
-# [Dailymotion + Youtube compatibility test demo](https://cdn.rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
+## [Current demo](https://rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
+## [Dailymotion + Youtube compatibility test demo](https://cdn.rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
 
 ## Install
 The only file you need is dist/DM.min.js.
