@@ -36,7 +36,6 @@ The only file you need is dist/DM.min.js.
     data-setup='{ "techOrder": ["dailymotion"], "sources": [{ "type": "video/dailymotion", "src": "https://www.dailymotion.com/video/xgz4t1"}] }'
   >
   </video>
-
 	<link rel="stylesheet" media="screen" href="https://vjs.zencdn.net/5.11.9/video-js.css">
 	<script src="https://vjs.zencdn.net/5.11.9/video.js"></script>
   <script src="/dist/DM.min.js"></script>
