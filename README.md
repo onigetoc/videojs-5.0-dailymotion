@@ -100,6 +100,7 @@ If you need to set any additional options on the YouTube player, you may do so w
 ```
 
 **Special Thank You**
+
 Thanks to Steve Heffernan for the amazing Video.js and to Benoit Tremblay for youtube.js extension for the code who inspired and is based for DM.js
 
 ## License
