@@ -16,6 +16,8 @@ For now, you have to alternate between MP4 and Dailymotion video to change video
 
 **[Dailymotion + Youtube compatibility test demo](https://cdn.rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)**
 
+**To Help [Edit on Plunker](https://plnkr.co/edit/s6Ql4I324cYioADy9CPS?p=preview)**
+
 ## Install
 The only file you need is dist/DM.min.js.
 
