@@ -12,8 +12,8 @@ For now, you have to alternate between MP4 and Dailymotion video to change video
 *   There's lot of the youtube.js codes who is not used and i let it there to use or delete it later
 
 
-## [Current demo](https://rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
-## [Dailymotion + Youtube compatibility test demo](https://cdn.rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
+**[Current demo](https://rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)**
+**[Dailymotion + Youtube compatibility test demo](https://cdn.rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)**
 
 ## Install
 The only file you need is dist/DM.min.js.
