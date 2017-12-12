@@ -3,6 +3,10 @@ Dailymotion playback technology for Video.js 5.0 +
 
 # Dailymotion Playback Technology<br />for [Video.js](https://github.com/videojs/video.js)
 
+## HELP AND CONTRIBUTION This is based on videojs-youtube extension
+I need help and contribution to make it work for video.js 5.0
+- 
+
 ## [Current demo](https://rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
 ## [Dailymotion + Youtube compatibility test demo](https://cdn.rawgit.com/onigetoc/videojs-5.0-dailymotion/master/demo-DM-YT.html)
 
@@ -91,10 +95,12 @@ If you need to set any additional options on the YouTube player, you may do so w
 ```
 
 ##Special Thank You
-Thanks to Steve Heffernan for the amazing Video.js and to John Hurliman for the original version of the YouTube tech
+Thanks to Steve Heffernan for the amazing Video.js and to Benoit Tremblay for youtube.js extension for the code who inspired and is based for DM.js
 
 ## License
 The MIT License (MIT)
+
+[Created with Edit Convert HTML to Markdown](http://www.codesniff.com/editconvert/)
 
 Copyright (c) Gino Côté <secret@gmail.com> and videojs-DM contributors
 
