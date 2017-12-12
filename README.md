@@ -1,7 +1,7 @@
 # videojs-5.0-dailymotion
 Dailymotion playback technology for Video.js 5.0 +
 
-# Dailymotion Playback Technology<br />for [Video.js](https://github.com/videojs/video.js)
+# Dailymotion Playback Technology for [Video.js](https://github.com/videojs/video.js)
 
 **HELP AND CONTRIBUTION. This is based on videojs-youtube extension**
 >I need help and contribution to make it work for video.js 5.0. This is the first version and it do not work as expected.
